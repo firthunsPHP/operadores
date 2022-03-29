@@ -7,6 +7,11 @@ $alex = array('telefono' => '9654654', 'edad' => 25, 'apellido' => 'FalconMaster
 # Al igual que en los arreglos indexados, en los asosiativos tambien podemos modificar sus valores simplemente accediendo a ellos.
 $alex['telefono'] = '111111';
 
-echo 'El telefono de Alex es: ' . $alex['telefono'];
+echo 'El telefono nuevo  de Alex es: ' . $alex['telefono']. '<br/>';
+
+echo 'El telefono de Alex es: ' . $alex['edad'] . '<br/>';
+
+
+echo $alex . '<br/>';
 
 ?>

@@ -2,13 +2,18 @@
 
 # Notas:
 # - Los nombres de las variables son sensibles a mayusculas y minisculas
-# - Los nombres de variables no pueden llevar espacios, empezar por numeros o llevar caracteres especiales como puntos o incluso la letra ñ
+# - Los nombres de variables no pueden llevar espacios, empezar por numeros o
+# - llevar caracteres especiales como puntos o incluso la letra ñ
 
 # Tipos de datos:
 # String: Cadena de texto
+$nombre = "Carlos Arturo";
 # Integer: Numeros enteros
+$numero = 7;
 # Double: Numeros con decimales
+$numero_decimal = 7.7;
 # Boolean: Verdadero o Falso (true / false)
+$verdadero_falso = true;
 # Array: Arreglo
 # Object: Objeto
 # Class: Clase
@@ -16,14 +21,7 @@
 
 # Ejemplos de variables almacenando diferentes tipos de datos:
 
-// String
-$nombre = "Carlos Arturo";
 
-// Entero
-$numero = 7;
-
-// Boleano
-$verdadero_falso = true;
 
 
 // Comillas Sencillas vs Comillas Dobles
@@ -33,8 +31,11 @@ $verdadero_falso = true;
 echo 'Mi nombre es ' . $nombre;
 echo '<br>';
 
-echo "Mi nombre es $nombre";
+echo "Mi nombre es $nombre"; ## es forma de integrar una variable dentro de un string, puede traer problemas de seguridad
 
 // Podemos obtener el tipo de dato de una variable mediante la funcion gettype()
+echo '<br>';
+
+echo gettype($nombre);
 
 ?>
