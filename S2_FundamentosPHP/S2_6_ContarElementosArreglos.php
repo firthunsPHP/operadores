@@ -6,8 +6,8 @@ $meses = array(
     'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'
 );
 
-// echo count($meses);
-$ultimo_mes = count($meses) - 1;
-$meses[$ultimo_mes];
+// echo count($meses) . '<br/>';
+ $ultimo_mes = count($meses) - 1 . '<br/>';
+echo $meses[$ultimo_mes] . '<br/>';
 
 ?>

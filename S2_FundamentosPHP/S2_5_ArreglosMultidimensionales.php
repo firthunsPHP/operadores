@@ -11,8 +11,11 @@ $amigos = array(
 # En este ejemplo accedemos primero al arreglo amigos y luego al primer elemento dentro de amigos, despues accedemos al primer valor del arreglo.
 
 # Puedes llegar a tener cuantos niveles quieras.
-echo $amigos[0][0] . '<br />';
+echo $amigos[0][0] . ' y tiene ' . $amigos[0][1] .' años' . '<br />';
 echo $amigos[1][0] . '<br />';
 echo $amigos[2][0] . '<br />';
+
+echo $amigos[1][1] . '<br />';
+echo $amigos[2][1] . '<br />';
 
 ?>

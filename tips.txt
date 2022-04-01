@@ -1,0 +1,8 @@
+1. formularios
+https://www.php.net/manual/es/filter.filters.sanitize.php
+
+https://www.php.net/manual/es/filter.filters.validate.php
+
+2. Guía Fácil y Completa de Expresiones Regulares desde Cero
+https://regexr.com/
+https://www.youtube.com/watch?v=wfogZfIS03U

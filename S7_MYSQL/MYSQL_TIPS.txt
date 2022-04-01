@@ -1,0 +1,9 @@
+Recursos:
+https://www.navicat.com/en/products/navicat-for-mysql
+
+https://dev.mysql.com/downloads/workbench/
+
+http://www.sequelpro.com/
+
+https://www.heidisql.com/
+

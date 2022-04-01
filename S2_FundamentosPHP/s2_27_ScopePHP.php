@@ -4,7 +4,7 @@ $numero = 7;
 
 function mostrarNumero(){
     $numero = 10;
-    // return $numero;
+     return $numero;
 }
 
 echo mostrarNumero();

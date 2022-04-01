@@ -6,6 +6,8 @@ $meses = array(
     'Septiembre', 'Octubre', 'Noviembre', 'Diciembre'
 );
 
+//sort($meses);
+//rsort($meses);
 ?>
 <!DOCTYPE html>
 <html lang="en">
