@@ -6,3 +6,8 @@ https://www.php.net/manual/es/filter.filters.validate.php
 2. Guía Fácil y Completa de Expresiones Regulares desde Cero
 https://regexr.com/
 https://www.youtube.com/watch?v=wfogZfIS03U
+
+3. Pagina para desencriptar hash sha512(login_register). ESCUCHA PONTE LAS PILAS EN SEGURIDAD
+https://md5hashing.net/hash/sha512
+
+4.https://filezilla-project.org/
